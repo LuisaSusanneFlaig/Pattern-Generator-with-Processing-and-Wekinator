@@ -1,6 +1,10 @@
 # About the Project
 
 
+
+https://github.com/LuisaSusanneFlaig/Pattern-Generator-with-Processing-and-Wekinator/assets/76207270/0d5d6096-e246-4ab1-8a61-cbe5334a8ea2
+
+
 The generative design concept was created solely with the help of Processing. It consists of a Perlin Noise Field or a vector field. The code for it is open-source and accessible on GitHub at the following link: https://github.com/Behemontha/PerlinNoiseFlowField/tree/master/PerlinNoiseFlowField.
 
 It operates in a way that assigns a random direction to each point on the canvas through a gradient vector. This randomness can generate organic patterns.
